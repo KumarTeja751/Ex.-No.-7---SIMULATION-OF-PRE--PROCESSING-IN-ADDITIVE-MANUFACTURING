@@ -87,10 +87,6 @@ It is lso known as offsetting or offsetting contours, is a preprocessing techniq
 
 # Grid path planning :
 It is also known as grid infill or grid pattern, is a technique used in 3D printing to fill the interior of a 3D model with a grid-like pattern
-## Output:
-![image](https://github.com/KumarTeja751/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144947756/8679ce0d-63fa-49f2-9360-59e69afec5fb)
-![image](https://github.com/KumarTeja751/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144947756/54347e3e-a6d2-4f5d-9753-f12696d2acec)
-![image](https://github.com/KumarTeja751/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144947756/c1aba93d-d2ad-4f43-83d8-0f5afbb1b514)
 
 ### Name:KUMARTEJA NARAMALA
 ### Register Number:23003525
